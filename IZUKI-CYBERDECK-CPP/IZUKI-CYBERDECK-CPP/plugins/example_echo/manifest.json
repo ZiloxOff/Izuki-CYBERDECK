@@ -1,0 +1,1 @@
+{"id":"example_echo","name":"Echo","version":"1.0.0","description":"Echo plugin","category":"utilities","dependencies":[],"permissions":["none"],"platforms":["Linux"],"entry":"run"}
